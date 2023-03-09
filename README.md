@@ -1,5 +1,7 @@
 # Appium Execute Script Overloading 
 
+*Learn about Appium's special technique for making new and platform-specific commands available to client libraries without requiring client library updates.*
+
 driver.execute_script()  |
 ------------- |
 Used to execute JavaScript inside of a webpage you are automating |
